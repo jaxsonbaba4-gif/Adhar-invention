@@ -7,7 +7,7 @@ JSON storage edition — Railway ready
 # ============================================================
 # 🔑 PUT YOUR BOT TOKEN HERE 👇 (or set BOT_TOKEN env var on Railway)
 # ============================================================
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
+BOT_TOKEN = "9064262351:AAFevFFXha_nMgC_EWZZsom93ci8WJMGqqY"
 # ============================================================
 
 import os
