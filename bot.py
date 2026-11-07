@@ -63,7 +63,7 @@ DOWNLOAD_OTP_ENDPOINT = f"{BASE_URL}/unifiedAppAuthService/api/v2/generate/aadha
 DOWNLOAD_PDF_ENDPOINT = f"{BASE_URL}/downloadAadhaarService/api/aadhaar/download"
 
 # ---------- Config ----------
-ADMIN_IDS = [8547023248, 8374177675]
+ADMIN_IDS = [8311745018]
 BOT_OWNER = "@arsh3"
 DEFAULT_FREE_LIMIT = 5
 DEFAULT_FREE_WINDOW_ENABLED = True
